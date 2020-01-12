@@ -1,7 +1,7 @@
 {
-  "name": "Secrets",
+  "name": "secrets",
   "version": "1.0.0",
-  "description": "",
+  "description": "Secret sharing app, intended to show the levels of authentication that can be used while developing web apps.",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -20,7 +20,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "authentication",
+    "security",
+    "secrets sharing app",
+    "nodejs",
+    "md5",
+    "bcrypt",
+    "oauth20",
+    "npm"
+  ],
+  "author": "K G Prajwal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-G-PRAJWAL/Authentication-and-Security.git"
+  },
+  "bugs": {
+    "url": "https://github.com/K-G-PRAJWAL/Authentication-and-Security/issues"
+  },
+  "homepage": "https://github.com/K-G-PRAJWAL/Authentication-and-Security#readme"
 }
